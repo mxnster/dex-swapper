@@ -1,0 +1,23 @@
+{
+  "name": "arbi-swap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "arbitrum",
+    "swap",
+    "dex",
+    "uniswap",
+    "dodoex",
+    "1inch"
+  ],
+  "author": "https://t.me/cryptolbs",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^9.1.1",
+    "console-stamp": "^3.1.0",
+    "ethers": "^5.7.2",
+    "node-fetch": "^3.3.0"
+  }
+}
