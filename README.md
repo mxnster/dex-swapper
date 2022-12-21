@@ -1,4 +1,4 @@
-# swapper
+# dex-swapper
 
 This bot allows you to swap tokens on random dexes. 
 Perfect for simulating network activity.
