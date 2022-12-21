@@ -1,5 +1,12 @@
 # swapper
 
+This bot allows you to swap tokens on random dexes. 
+Perfect for simulating network activity.
+
+Available dexes: <b>1inch, uniswap, dodex</b>.
+
+Tested networks: <b>optimism, arbitrum</b>.
+
 ## Setup bot
 1) Download ZIP and extract it to a folder
 2) Install node.js: `https://nodejs.org/en/` (LTS)
