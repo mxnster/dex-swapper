@@ -24,7 +24,6 @@ export const config = {
      * Ethereum	1
      * Goerli	5
      * Optimism	10
-     * Polygon	137 // currently uniswap doesn't work
      * Arbitrum One	42161
      * Arbitrum Rinkeby	421611
      */
